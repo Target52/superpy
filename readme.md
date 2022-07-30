@@ -33,6 +33,10 @@ Opties:<br>--help<br>
 python main.py advance-time 5
 ```
 
+met advance-time --0 kan de datum worden gereset
+<br/><br/>
+
+
 ### buy
 Met buy koopt u producten<br>
 opties:<br>--help<br>
